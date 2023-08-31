@@ -178,6 +178,39 @@ h1{
     .main-container{
         flex-direction: column;
     }
+    .child1{
+        margin-left: -25px;
+    }
+    .child2{
+        margin-left: -17px;
+    }
+    .child3{
+        margin-left: -14px;
+    }
+    .color-box{
+        margin-left: -25px;
+    }
+    .alarm{
+        margin-left: -25px;
+    }
+    .changer{
+        margin-left: -25px;
+    }
+    .side-box{
+        margin-left:-70px;
+        margin-top: 40px;
+        width: 160px;
+        height: 120px;
+    }
+    .image{
+        margin-left: -25px;
+    }
+    .beautiful{
+        margin-left: -25px;
+    }
+    
+
+
     
 }
 
